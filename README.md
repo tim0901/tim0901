@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
 ![](https://hit.yhype.me/github/profile?user_id=10575516)
+
+I'm Alex, a physicist-in-training with a passion for computer graphics.
+
+- 🔭 Currently I'm working on [Gaia](https://github.com/tim0901/Gaia) - a Monte-Carlo path tracer written in C++ 
+
 <!--
 **tim0901/tim0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
