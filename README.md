@@ -1,5 +1,4 @@
-### Hi there! 👋
-![](https://hit.yhype.me/github/profile?user_id=10575516)
+### Hi there! 👋 ![](https://hit.yhype.me/github/profile?user_id=10575516)
 
 I'm Alex, a physicist-in-training with a passion for computer graphics.
 
